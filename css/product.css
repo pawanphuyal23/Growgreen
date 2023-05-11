@@ -1,0 +1,83 @@
+.review {
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+
+
+
+.review h3 {
+  margin-top: 0;
+}
+
+.stars {
+  color: green;
+  font-size: 1rem;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+
+.checked {
+  color: #FFC107;
+}
+h2{
+  margin-left: 8%;
+}
+
+.review{
+  margin-left: 8%;
+}
+
+img{
+  width: 100px;
+}
+
+.box-blog h2{
+
+  padding: 4%  4%;
+  text-align: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: #651501;
+
+}
+
+
+.plants-blog{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, auto));
+  align-items: center;
+  column-gap: 1rem;
+  text-align: center;
+  cursor: pointer;
+  padding-top: 2rem;
+
+}
+
+.indoor-blog{
+  padding-bottom: 4.16%;
+
+}
+
+
+
+.indoor-blog p{
+  font-family: sans-serif;
+  color: #000000;
+  font-size: 1rem;
+  text-align: center;
+  padding: 15px;
+  word-spacing: 3px;
+  line-height: 26px;
+
+}
+
+.indoor-blog{
+  width: 70%;
+  margin: 18%;
+  margin-top: 5%;
+}
+
+

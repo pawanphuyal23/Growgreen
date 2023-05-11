@@ -1,0 +1,262 @@
+.container{
+	display: flex;
+	align-items: center;
+	background-color: #033A29;
+	color: #FFFFFF;
+	
+
+}
+
+.container img{
+	float: right;
+	width: 50%;
+
+}
+
+
+		.search-container {
+			background-color: #033A29;
+			padding: 10px;
+			border-radius: 50px;
+			border:  2px solid white;
+			position: absolute;
+			left:  10%;
+			width: 275px;
+		}
+
+	.search-input {
+			padding: 10px
+			font-size: 10px
+
+		}
+		.search-icon {
+			padding: 0px;
+			font-size:10px;
+			color: white;
+		}
+
+		.search-bar {
+  			background-color: #033A29;
+  			border: none;
+  			width: 50%;
+  			padding:  2px;
+
+
+}
+
+
+			.btn {
+				background-color: #651501;
+				color: white;
+				border: none;
+				font-size: 16px;
+				padding:  10px;
+				border-radius: 10px;
+				text-decoration: none;
+				position: absolute;
+				left:  108%;
+				top:  0%;
+			}
+			.btn2{
+				background-color: #651501;
+				color: white;
+				border: none;
+				font-size: 16px;
+				padding:  10px;
+				border-radius: 10px;
+				text-decoration: none;
+				position: absolute;
+				left: 30%;
+				top: 200%;
+
+			}
+			.btn3{
+				background-color: #651501;
+				color: white;
+				border: none;
+				font-size: 16px;
+				padding:  10px;
+				border-radius: 10px;
+				text-decoration: none;
+				left: 30%;
+				top: 200%;
+
+			}
+
+.container p{
+	background-color:#033A29;
+	padding: 0 20px;
+	top: 20%;
+	font-size: 2.4rem;
+	width: 50%;
+	font-weight: bold;
+	font-family: Rubik , sans-serif;
+	text-align: justify;
+	margin-bottom: 20%;
+	margin-left: 8%;	
+}
+
+
+.card-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 100px;
+}
+
+.card {
+	padding: 10px;
+	width: 30%;
+}
+
+.card img {
+  padding: 5px;
+	text-align: left;
+	padding-right: 40px;
+	width: 70%;
+}
+
+
+
+
+
+
+.blog-para h2{
+	text-align: center;
+}
+
+
+.button-container {
+	padding: 80px;
+
+
+}
+
+.button-box{
+
+    background-color: #651501;
+	padding: 12px 10px;
+	text-decoration: none;
+	color: white;
+	font-size: 1rem;
+	border-radius: 8px;
+	font-family: Rubik , sans-serif;
+	position: absolute;
+    top: 236%;
+    left: 16%;
+
+
+}
+
+
+.new-blog h2{
+
+	text-align: center;
+
+
+}
+
+img{
+	display: flex;
+	flex-direction: row;
+}
+
+.box-home h2{
+
+  padding: 4%  4%;
+  text-align: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: #651501;
+
+}
+
+
+.plants-home{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, auto));
+  align-items: center;
+  column-gap: 1rem;
+  text-align: center;
+  cursor: pointer;
+  padding-top: 2rem;
+
+
+}
+
+
+
+}
+.indoor-plant{
+  width: 70%;
+  margin: 18%;
+  margin-top: 10%;
+}
+
+h2{
+	text-align: center;
+	font-family: Rubik, sans-serif;
+}
+
+.cart-img{
+	padding: 40px 200px;
+
+}
+
+.blog-img img{
+	width: 50%;
+	padding-bottom: 30px;
+}
+
+.house img{
+	width: 20%;
+	float: right;
+}
+
+
+.benifits-img-container{
+	height: 600px;
+	width: 100%;
+}
+
+.benifits-img-1-container{
+	width: 50%;
+	display: flex;
+	align-items: flex-end;
+}
+
+.benifits-img-2-container{
+	width: 50%;
+	display: flex;
+	align-items: flex-start;
+}
+
+.benifits-img-1{
+	width: 100%;
+}
+
+.benifits-img-2{
+	width: 100%;
+}
+
+.benifits-div-text{
+	display: flex;
+	flex-direction: column;
+	width: 70%;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.benifits-div-text p{
+	font-size: 1.2rem;
+	text-align: justify;
+	margin: 10%;
+	font-family: Rubik, sans-serif;
+	line-height: 36px;
+
+}
+
+.benifits-div-text h1{
+	font-size: 2.4rem;
+}
